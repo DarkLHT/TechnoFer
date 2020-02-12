@@ -1237,7 +1237,7 @@ ul.portfolio-filter.style1 {
 
 ul.portfolio-filter.style1 > li {
     position: relative;
-    padding: 0 18px;
+    padding: 0px;
 }
 
 ul.portfolio-filter.style1 > li:first-child {
@@ -1255,12 +1255,12 @@ ul.portfolio-filter.style1 > li.active a:hover {
 
 ul.portfolio-filter.style1 > li a {
     display: block;
-    padding: 0 13px;
+    padding: 0 5px;
     color: #333333;
-    border-radius: 3px;
+    border-radius: 2px;
     text-transform: uppercase;
-    font-size: 13px;
-    font-weight: 700;
+    font-size: 11px;
+    font-weight: 600;
 }
 
 ul.portfolio-filter.style1 > li a:hover {
